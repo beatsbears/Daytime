@@ -1,0 +1,6 @@
+.DS_Store
+.build/**
+.buildzz/**
+Packages/**
+*.xcodeproj
+Package.resolved

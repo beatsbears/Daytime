@@ -6,6 +6,6 @@ This is a simple implementation of the [Daytime protocol](https://tools.ietf.org
 Read the blog post [here](https://medium.com/@aclaytonscott/building-a-daytime-server-from-scratch-with-swiftnio-965fc4f013ea).
 
 ### Running
-Note: This assumes you have 
+Note: This assumes you have Swift 4.1.x installed
 1. Install any dependencies `$ swift package resolve`
 2. Run the Daytime server `$ swift run`
